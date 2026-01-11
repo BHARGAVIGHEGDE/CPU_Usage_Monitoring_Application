@@ -105,8 +105,8 @@ setx SMTP_PASS "smtp_password"
   },
   "Email": {
     "SmtpServer": "smtp.company.com",
-    "From": "monitor@company.com",
-    "To": "ops@company.com",
+    "From": "abc@company.com",
+    "To": "xyz@company.com",
     "Port": 587
   }
 }

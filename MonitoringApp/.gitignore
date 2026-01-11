@@ -15,6 +15,10 @@ obj/
 *.exe
 *.dll
 *.pdb
+bin/
+obj/
+Release/
+Debug/
 
 # =========================
 # App configuration (secrets)
