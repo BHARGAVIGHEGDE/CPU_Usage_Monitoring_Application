@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonitoringApp", "MonitoringApp\MonitoringApp.csproj", "{31DE8B62-0F84-4B1F-AB6A-34626A0EA334}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MonitoringAppInstaller", "MonitoringAppInstaller\MonitoringAppInstaller.vdproj", "{C245CB4A-959E-4D79-93FF-6EB2274E4300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31DE8B62-0F84-4B1F-AB6A-34626A0EA334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31DE8B62-0F84-4B1F-AB6A-34626A0EA334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31DE8B62-0F84-4B1F-AB6A-34626A0EA334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31DE8B62-0F84-4B1F-AB6A-34626A0EA334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C245CB4A-959E-4D79-93FF-6EB2274E4300}.Debug|Any CPU.ActiveCfg = Debug
+		{C245CB4A-959E-4D79-93FF-6EB2274E4300}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0A9C822-9235-4634-8029-8B096A22C552}
+	EndGlobalSection
+EndGlobal

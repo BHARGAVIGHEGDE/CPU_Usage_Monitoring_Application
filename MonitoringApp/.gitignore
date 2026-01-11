@@ -1,0 +1,30 @@
+# =========================
+# .NET / Visual Studio
+# =========================
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+# Publish output
+# =========================
+**/publish/
+*.exe
+*.dll
+*.pdb
+
+# =========================
+# App configuration (secrets)
+# =========================
+appsettings.json
+appsettings.*.json
+.env
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
